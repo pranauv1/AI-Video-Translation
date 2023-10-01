@@ -1,4 +1,4 @@
-# Video-Translation
+# AI-Video-Translation
 A simple Google Colab notebook which can translate an original video into multiple languages along with lip sync.
 
 How it works?
