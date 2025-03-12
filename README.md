@@ -1,6 +1,7 @@
 # AI-Video-Translation
 
-(This Project is not maintained anymore, feel free to fork and modify it!)
+(This Project is not maintained anymore, feel free to fork and modify it!)<br><br>
+
 A simple Google Colab notebook which can translate an original video into multiple languages along with lip sync.
 
 <b>How it works?</b>
